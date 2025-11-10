@@ -1,5 +1,5 @@
 import { Course, CourseNode, GraphEdge, PathResult } from './types.js';
-import coursesData from '../../courses.json' assert { type: 'json' };
+import coursesData from '../../courses.json' with { type: 'json' };
 
 export class CourseGraph {
   private nodes: Map<string, CourseNode> = new Map();
