@@ -1,6 +1,7 @@
 import { Course, PathResult } from './types';
 
-const API_BASE = '/api';
+// const API_BASE = '/api';
+const API_BASE = 'https://tru-course-map.onrender.com/api';
 
 export const api = {
   async getAllCourses(): Promise<Course[]> {
