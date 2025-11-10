@@ -1,4 +1,4 @@
-import { Course, CourseNode, GraphEdge } from './types.js';
+import { Course, CourseNode, GraphEdge, PathResult } from './types.js';
 import coursesData from '../../courses.json' assert { type: 'json' };
 
 export class CourseGraph {
