@@ -3,7 +3,7 @@
     "target": "ES2022",
     "module": "nodenext",
     "lib": ["ES2022"],
-    "moduleResolution": "node",
+    "moduleResolution": "nodenext",
     "rootDir": "./src",
     "outDir": "./dist",
     "strict": true,
