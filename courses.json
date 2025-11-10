@@ -1,0 +1,814 @@
+[
+    {
+      "code": "COMP 0500",
+      "title": "Introduction to Personal Computers (1,2,3)",
+      "credits": "3 credits",
+      "description": "ABE - Advanced: This course is designed to introduce students to the personal computer environment at an advanced level. Students gain basic computing skills, including File Management, the Internet, Email, Word Processing, Spreadsheets, and slide presentation using popular word processing software. Historical and social issues arising from the use of computer technology is also covered. \nNote: This course is taught by the University and Employment Preparation Department",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 0600",
+      "title": "Introduction to Programming (2,0,4)",
+      "credits": "3 credits",
+      "description": "ABE - Provincial: A programming course designed for students who are  planning to take a first year course in computer programming at the  college or university level, CSOM or as a prerequisite for COMP 1130. It  assumes no previous experience on computers and aims to develop problem solving skills and knowledge of a computer language. Students will learn the VISUAL BASIC.NET programming language.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 0650",
+      "title": "Introduction to Desktop and Web Publishing (0,5,0)",
+      "credits": "3 credits",
+      "description": "ABE V Provincial: This is a computer studies application course intended  to develop problem-solving and critical thinking skills using computer  application software, including Adobe Photoshop and InDesign. Students  will develop Desktop Publishing, Digital Photograph manipulation and Web  page creation skills.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1000",
+      "title": "Introduction to Information Technology (3,0,1)",
+      "credits": "3 credits",
+      "description": "Students are provided an introduction to the 'computer world,' and an opportunity to enhance their proficiency in using computer resources for common daily tasks. The basic computer knowledge required to be an effective academic student as well as be competitive in the modern workplace is acquired, in addition to an understanding of the computer as a collection of resources (local and global). Students learn how to use computer resources to complete assignments and projects, whether at school or in the workplace, giving them the ability to adapt to further advances and changes in information technology.\n\nNotes:\n1. Students may not receive credit for more than one of COMP 1000, COMP 1350, COMP 1700, COMP 1910, BBUS 1370, BBUS 2370 and MIST 2610\n2. Students planning on completing a Major in Computing Science or Mathematical Sciences are NOT required to complete COMP 1000",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1010",
+      "title": "Introduction to Computing Science (2,0,0)",
+      "credits": "2 credits",
+      "description": "This course offers a broad overview; students develop an appreciation for and an understanding of the many different aspects of the computing science discipline. Topics include information and data representation; computer hardware and architecture; algorithmic problem solving; an introduction to programming; operating systems; networks; applications; artificial intelligence and robotics; social implications; ethics; and a history of computing. The course is intended for students expecting to continue in computing science as well as for those taking it for general interest.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1020",
+      "title": "Introduction to Spreadsheets (0,1,0)",
+      "credits": "1 credits",
+      "description": "This course provides students with an introduction to spreadsheets using Excel. Students develop the spreadsheet skills they need for other courses, and ultimately the modern workplace.",
+      "prereq": "None, although experience with computer use and typing skills would be beneficial"
+    },
+    {
+      "code": "COMP 1030",
+      "title": "Introduction to Databases (0,1,0)",
+      "credits": "1 credits",
+      "description": "Students are introduced to DBMS (Database Management System). The DBMS used in this course is Microsoft Access. Students enhance their ability to create, query, and maintain a database in MS Access, in addition to creating forms and reports. This course provides basic database knowledge.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1040",
+      "title": "Introduction to Web Animation (0,1,0)",
+      "credits": "1 credits",
+      "description": "This is an introductory animation course using Adobe Flash software. Students explore the principles of animation using Flash software, and apply these principles to create a series of animation assignments.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1050",
+      "title": "Computer System Maintenance (0,1,0)",
+      "credits": "1 credits",
+      "description": "Students focus on computer system maintenance, trouble shooting, and optimization. Both hardware and software aspects of the computer as a system are covered. The course utilizes the Windows operating system; installing, uninstalling and working with applications; installing and troubleshooting devices; maintaining systems and optimizing performance.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1060",
+      "title": "Introduction to Desktop Publishing (0,1,0)",
+      "credits": "1 credits",
+      "description": "creditStudents are provided with a comprehensive introduction to current publishing software to create professional presentations, documents, marketing communications materials and Web pages. This course is intended for students who have little or no exposure to Microsoft Office products.",
+      "prereq": "None, although experience with computer use and typing skills are beneficial. Bachelor of Science students must obtain permission of the B.Sc. Advisor prior to enrolling in this course."
+    },
+    {
+      "code": "COMP 1070",
+      "title": "Introduction to Digital Media (0,1,0)",
+      "credits": "1 credits",
+      "description": "Students are introduced to digital media. The goal is to use freely available shareware to edit photo, music and video files in a series of practical assignments. Students also learn the basic vocabulary and theory behind digital forms of media.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1080",
+      "title": "Introduction to Web Development (0,1,0)",
+      "credits": "1 credits",
+      "description": "This course provides an introduction to web development. This course covers only client-side web development with a brief introduction to HTTP protocol and web servers.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1090",
+      "title": "Introduction to Linux (0,1,0)",
+      "credits": "1 credits",
+      "description": "This course provides an introduction to Linux Operating System such as Linux evolution, graphical environments, terminal interfaces and shell, the file system, file manipulation commands, data manipulation commands, editors, software tools, networking tools, and system administration tools.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1110",
+      "title": "Introduction to Computer Programming (2,2,0)",
+      "credits": "3 credits",
+      "description": "Students are introduced to the use of structured problem solving methods, algorithms, and structured programming. Students use a high level programming language to learn how to design, develop, and document well-structured programs using software engineering principles. Students learn the workings of a computer as part of programming. In a laboratory setting, through critical thinking and investigation, students will iteratively design and build a variety of applications to reinforce learning and develop real world competency in Computer Programming. This course is for students who plan to take further courses in Computing Science or to learn basic programming concepts.",
+      "prereq": "English Studies 12 with a minimum grade of C"
+    },
+    {
+      "code": "COMP 1130",
+      "title": "Computer Programming 1 (3,1,1)",
+      "credits": "3 credits",
+      "description": "Students are introduced to the use of structured problem solving methods, algorithms, structured programming, and object-oriented programming concepts. Students use a high level programming language to learn how to design, develop, and document well-structured programs using software engineering principles. Students learn the workings of a computer as part of programming. This course is for students who plan to take further courses in Computing Science or to learn basic programming concepts.\n\nNotes:\n1. Students with previous programming experience (if-else, loops, arrays) in a language other than Java, should take COMP 1230 or COMP 2120\n2. Students may not receive credit for more than one of COMP 1130, COMP 1131 and COMP 1520",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1131",
+      "title": "Computer Programming I",
+      "credits": "3 credits",
+      "description": "Students are introduced to the use of structured problem solving methods, algorithms, structured programming, and object-oriented programming. Students use a high level programming language to learn how to design, develop, and document well-structured programs using software engineering principles. Students learn the workings of a computer as part of programming. In a laboratory setting, through critical thinking and investigation, students will iteratively design and build a variety of applications to reinforce learning and develop real world competency in Computer Programming. This course is for students who plan to take further courses in Computing Science or to learn basic programming concepts.\n\nPrerequisites: There are no prerequisites for the course but Pre-calculus 12 and Physics 12 with a minimum C+ are recommended.  \n\nNote: Students cannot get credit for more than one of COMP 1130, COMP 1131, COMP 1520.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1140",
+      "title": "Visual Basic Computer Programming  (3,1,1)",
+      "credits": "3 credits",
+      "description": "This course is an introduction to the use of structured problem solving methods, algorithms, structured programming, or object-oriented programming as well as event-driven programming. Students use a high-level programming language to design, develop, and document well-structured computer programs using software engineering principles. The language used in the course is Visual Basic.NET.",
+      "prereq": "Admission to the Computer Science Diploma program"
+    },
+    {
+      "code": "COMP 1150",
+      "title": "Introduction to 3D Animation (0,1,0)",
+      "credits": "1 credits",
+      "description": "This course introduces the basic principles and concepts of 3 dimensional animations. Students will gain experience with Alice, a fun and interactive way to design and create virtual worlds by using animated 3 dimensional graphical images. Students will gain the knowledge of principles and techniques common to all animations and particularly how to render 3 dimensional images.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1230",
+      "title": "Computer Programming 2 (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course is a continuation of COMP 1130 and provides a foundation for further studies in computing science. The objectives are to introduce object oriented programming and continue to develop a disciplined approach to the design, coding and testing of programs. In a laboratory setting, through critical thinking and investigation, students will iteratively design and build a variety of applications to reinforce learning and develop real world competency in Computer. This course is for students who plan to take further courses in Computing Science or to learn basic Object Oriented programming concepts.",
+      "prereq": "COMP 1130"
+    },
+    {
+      "code": "COMP 1231",
+      "title": "Computer Programming II",
+      "credits": "3 credits",
+      "description": "This course is a continuation of COMP 1131 and provides a foundation for further studies in computing science. The objectives are to introduce object oriented programming and continue to develop a disciplined approach to the design, coding and testing of programs. In a laboratory setting, through critical thinking and investigation, students will iteratively design and build a variety of applications to reinforce learning and develop real world competency in Computer. This course is for students who plan to take further courses in Computing Science or to learn basic Object Oriented programming concepts.\n\nPrerequisites: COMP 1131 or COMP 1130 with a score of C or better.\n\nExclusion Requisites: COMP 1230 and COMP 2120",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1240",
+      "title": "Visual Basic Computer Programming 2 (3,1,1)",
+      "credits": "3 credits",
+      "description": "In this continuation of COMP 1140: Visual Basic Computer Programming, students are provided a foundation for further studies in computing science, using Visual Basic.NET . The objectives of this course are to continue developing a disciplined approach to the design, coding and testing of computer programs written in Visual Basic.NET. Students examine concepts of data abstraction, encapsulation and inheritance, as well as the notion of information hiding and objects. There is an introduction to increasingly complex data structures, files and databases. Students use a report writer (Crystal Reports) and learn the management of exceptions in programs and classes. Students are also introduced to the creating of web applications using VB.NET, ADO.NET and ASP.NET, understanding XML, and creating web services.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1350",
+      "title": "Information Systems and Computerized Information Analysis (3,1,1)",
+      "credits": "3 credits",
+      "description": "The purpose of this course is to introduce computer terminology and system development techniques as they apply to information systems within the discipline. Students learn the principles and usage of computerized systems for data gathering, analysis, and reporting. Students develop an understanding of how to design, implement, and use database systems, how to analyze data via databases and spreadsheets, and how to report results both as text and graphics. Students delve into a comprehensive case study that integrates various software environments that may be encountered in the workplace.\nNote: Students may not receive credit for more than one of COMP 1000, COMP 1350, COMP 1910, COMP 1700, MIST 2610",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1380",
+      "title": "Discrete Structure 1 for Computing Science (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course is an introduction to the basic mathematical concepts used in computing science. Topics include the binary number system; computer arithmetic; logic and truth tables; Boolean algebra; logic gates and simple computer circuits; vectors and matrices; sets; counting; probability theory and statistics (mean, variance, median, mode, and random variables).",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1390",
+      "title": "Discrete Structure 2 for Computing Science (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course introduces further mathematical concepts used in Computing Science. Topics include relations; functions; graph theory; trees; languages; grammars; finite state machines; an introduction to proofs and mathematical induction; and algorithm analysis.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1520",
+      "title": "Principle of Software Development (3,0,2)",
+      "credits": "3 credits",
+      "description": "This course offers a practical introduction to problem-solving on a computer, and emphasizes a structured approach to the design of algorithms and proper programming style. Students use a high-level programming language to learn how to design, develop, and document well-structured programs in order to solve problems from the field of Engineering. In addition, students are introduced to data analysis using MATLAB.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1570",
+      "title": "Data Processing Tools and Techniques 1 (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course serves as an introduction to the tools and techniques commonly used for the processing and presentation of data. Throughout the course, students work on data processing problems typical of a business setting, including record keeping applications, data capture and validation, and report creation procedures. Students can expect to do a substantial amount of work in this course using spreadsheets (Microsoft Excel), desktop databases (Microsoft Access), and basic Web pages (HTML).",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1670",
+      "title": "Data Processing Tools and Techniques 2 (3,1,0)",
+      "credits": "3 credits",
+      "description": "The primary themes in this course build on those from COMP 1570: Data Processing Tools and Techniques 1, namely processing and presentation of data in a business context. Topics include advanced features of desktop databases; the use of reporting packages; editors and file handling utilities; and commercial application packages. Students also discuss software quality, documentation, and testing methodology.",
+      "prereq": "C or better in COMP 1570"
+    },
+    {
+      "code": "COMP 1700",
+      "title": "Introduction to Computing (3,0,1)",
+      "credits": "3 credits",
+      "description": "This course, intended for non-science students and non-mathematics students, is designed to offer a general introduction to the world of computers including terminology, history, uses, impact on society, and programming. Students experience and focus on operating and using a microcomputer in addition to common microcomputer software, such as Windows, word processing, spread sheets, presentation packages and graphics. The Internet as a research tool and programming is also introduced.\nNotes:\n1. COMP 1700 is not recommended for students in the BBA program. These students should register in MIST 2610\n2. Students may not receive credit for more than one of COMP 1000, COMP 1350, COMP 1700, COMP 1910, BBUS 1370, BBUS 2370 and MIST 2610\n3. This course is not currently offered. Interested students should enroll in COMP 1000",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1810",
+      "title": "Game Design and Development 1 (3,1,0)",
+      "credits": "3 credits",
+      "description": "Building a high quality game is a complex and challenging process. A key element to its success is the design. The fundamentals of game design and development are discussed, in addition to different elements of game design, such as game concepts, character development, storytelling and narrative, core mechanics, and creating the User Interface. Students build and develop computer games.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1910",
+      "title": "Introduction to Computers and Business Information Systems (1,1,2)",
+      "credits": "3 credits",
+      "description": "Students explore computing in the business environment. Emphasis is placed on computer applications in business including Windows, word processing, spreadsheets, presentation packages and the Internet. Topics relating to computer needs for business are also discussed.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 1980",
+      "title": "Foundations of Computing Science (3,2,0)",
+      "credits": "3 credits",
+      "description": "This course provides breadth in the area of Computing Science for Computing Science Majors. Topics include hardware and software design, including logic design; basic computer organization and system software; programming paradigms; external storage, sequential file processing and elementary relational databases; networks and electronic information services; artificial intelligence; and ethical and societal considerations.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 2120",
+      "title": "Computer Programming Java (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students are introduced to programming and program design using the Java programming language. This is a programming course, and as such, the requirements placed on students are beyond simply using the computer as a tool. Students must employ problem-solving skills to evaluate and solve word problems, and create Java programs using the basic language constructs to implement the solutions. This course is designed for students who have had exposure to university-level programming, and previous experience in programming languages other than JAVA.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 2130",
+      "title": "Introduction to Computer Systems (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students learn the basic concepts of computer systems. Students are introduced to the concepts of computer architecture, the 'C' and assembly programming languages as well as the use of Linux operating system. Students learn about memory organization, data representation, and addressing. Students are introduced to the concepts of machine language, memory, caches, virtual memory, linkage and assembler construction as well as exceptions and processes.",
+      "prereq": "C or better in COMP 1230 or COMP 1231 or COMP 2120"
+    },
+    {
+      "code": "COMP 2131",
+      "title": "Introduction to Computer Systems",
+      "credits": "3 credits",
+      "description": "Students learn the basic concepts of computer systems. Students are introduced to the concepts of computer architecture, the `C' and assembly programming languages as well as the use of Linux operating system. Students learn about memory organization, data representation, and addressing. Students are introduced to the concepts of machine language, memory, caches, virtual memory, linkage and assembler construction as well as exceptions and processes.\n\nRecommended Requisite: COMP 1230 or 1231 with a score of C or better AND COMP 2120 with a score of C or better\n\nNote: Students cannot receive credit for both COMP 2130 and 2131",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 2160",
+      "title": "Mobile Application Development 1 (3,1,0)(L)",
+      "credits": "3 credits",
+      "description": "Students will learn how to develop applications for mobile devices, including smartphones and tablets.  Course topics include current mobile platforms, mobile application development environments, mobile device input methods, as well as developing applications for the Android platform. In a laboratory setting students will iteratively design and build a variety of Apps to reinforce learning and develop real world competency in Mobile Application development. Through critical thinking and investigation, students will design and create Apps that solve real world problems.",
+      "prereq": "C or better in COMP 1230 or COMP 1231"
+    },
+    {
+      "code": "COMP 2161",
+      "title": "Mobile Application Development 1",
+      "credits": "3 credits",
+      "description": "Students will learn how to develop applications for mobile devices, including smartphones and tablets. Course topics include current mobile platforms, mobile application development environments, mobile device input methods, as well as developing applications for the Android platform. In a laboratory setting students will iteratively design and build a variety of Apps to reinforce learning and develop real world competency in Mobile Application development. Through critical thinking and investigation, students will design and create Apps that solve real world problems.\n\nPrerequisites: There are no prerequisites for the course, but COMP 1230 or COMP 1231 is recommended.\n\nNote: Students cannot get credit for more than one of COMP 2160, COMP 2161.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 2210",
+      "title": "Programming Methods (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students are introduced to the programming environments of visual and scripting language along with tools and techniques of software development process. Students learn a combination of visual programing using C# and scripting language using Python in this course. Students learn the techniques of event driven visual application development, database and web connectivity, scripts, functions, strings, tuples and text file handling.",
+      "prereq": "C or better in COMP 1230 or COMP 1231"
+    },
+    {
+      "code": "COMP 2211",
+      "title": "Programming Methods",
+      "credits": "3 credits",
+      "description": "Students are introduced to the programming environments of visual and scripting language along with tools and techniques of software development process. Students learn a combination of visual programming using C# and scripting language using Python in this course. Students learn the techniques of event driven visual application development, database and web connectivity, scripts, functions, strings, tuples and text file handling.\n\nRecommended Requisite: COMP 1231 or COMP 1230\n\nNote: Students cannot get credit for more than one of COMP 2210, COMP 2211.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 2230",
+      "title": "Data Structure, Algorithm Analysis, and Program Design (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students are introduced to the basic methods of representing data in Computing Science. Students review, implement and analyze several fundamental data structures including lists, stacks, queues, and graphs. Students learn the implementation of algorithms using these data structures and the efficiency and cost tradeoffs of each of them.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 2231",
+      "title": "Data Structures and Algorithms",
+      "credits": "3 credits",
+      "description": "Students are introduced to new types of data structures such as trees (including binary and multiway trees), heaps, stacks and queues. Students also design new algorithms for each data structure studied, create and perform simple operations on graph data structures, describe and implement common algorithms for working with advanced data structures, and recognize which data structure is the most appropriate for solving a particular problem.\n\nPrerequisites: There are no prerequisites for the course, but COMP 1231 is recommended.\n\nNote: Students cannot get credit for more than one of COMP 2230, COMP 2231.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 2520",
+      "title": "Programming in C++ (3,0,1)",
+      "credits": "3 credits",
+      "description": "This course is a programming course in Visual C++. Students are introduced to C++ using Microsoft Visual Studio, including the basics of the language, and the concepts and syntax of object-oriented programming with C++. The course examines the building of classes, provides an introduction to data structures, sorting and searching, and explores advanced features of classes.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 2530",
+      "title": "Small Computer Systems: Organization and Architecture (3,1,0)(L)",
+      "credits": "3 credits",
+      "description": "This course presents the organization and architecture of modern, small computer systems. A discussion of representation and manipulation of information inside computers is followed by logic design basics, computer organization, and an introduction to computer architecture. Students are then introduced to the principles of operating systems, including the management of computer system resources, and provided an overview of current popular small systems operating systems. Topics are complemented by a seminar type workshop to give students hands-on experience with maintenance, configuration troubleshooting, upgrading, optimization, and usage of small computer systems.",
+      "prereq": "Successful admission into 1st year Computing Science Diploma"
+    },
+    {
+      "code": "COMP 2540",
+      "title": "Information Resource Management and Issues (3,1,0)",
+      "credits": "3 credits",
+      "description": "Information Systems (IS) are an important service to organizations and the management of information systems is important to understand, both for the employee in the organization and for individuals interested in becoming IS managers. This course explores IS management and how it must effectively address the needs and imperatives of organizations, technologies and society. The computer profession has emerged as an essential player in organizations as they vie for improved competitive positions by making strategic use of computer technology. Case studies and guest lecturers (where possible) are used to provide an IS overview, and examine the duties and organization of IS departments (including control of resources, staffing, security and disaster plans); the organization of IS to support end-user computing; and the quality of life, work, professionalism and ethics for IS professionals.",
+      "prereq": "Successful completion of 1st year of Computing Science Diploma"
+    },
+    {
+      "code": "COMP 2560",
+      "title": "Database Processing (3,0,1)",
+      "credits": "3 credits",
+      "description": "Students review the major components of the database environment and the evolution of database technologies. Database design techniques are then introduced using both the Entity Relationship model and an object-oriented approach. As students design and implement a case study project, they learn the relational database model and data normalization. Structured Query Language (SQL) is discussed in depth, including Data Definition Language (DDL), Data Manipulation Language (DML), Data Control Language, and data integrity checking. Client and Server architecture is also discussed.",
+      "prereq": "C or better in COMP 1230 or COMP 1231 or COMP 2120"
+    },
+    {
+      "code": "COMP 2570",
+      "title": "Systems Analysis and Design 1 (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students are introduced to systems analysis and design. Topics in analysis include project initiation, preliminary investigation, definition of project scope, cost/benefit analysis, interviewing techniques, presentation techniques, detailed systems investigation, and analysis. Topics in design include object-oriented design, input, output, files, systems processing and systems controls. This course may use CASE tools in the lab component.",
+      "prereq": "Completion of 1st year Computing Science Diploma"
+    },
+    {
+      "code": "COMP 2590",
+      "title": "Program Design and Data Structure for Engineers (4,3,0)",
+      "credits": "4 credits",
+      "description": "Students examine the two main aspects of computer software (data structures and algorithms), and developing medium-sized programs (as opposed to suites of programs). The object-oriented programming paradigm is utilized. Students acquire  knowledge of the basic data structures and algorithms commonly used in Computing Science; an understanding of the techniques appropriate for developing middle-sized computer programming projects; the skills appropriate for small, team programming projects; and practical programming skills in an object-oriented and procedural language, such as Java or C++.",
+      "prereq": "Admission to the Electrical-Computer Engineering Year 2 program, or permission of the Engineering Transfer program coordinator. COMP 1520 or COMP 1130."
+    },
+    {
+      "code": "COMP 2620",
+      "title": "E-Commerce Systems Development (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course introduces students to the design, implementation, and operation of Electronic Commerce systems. Emphasis is placed on the technology involved in creating Web databases, data marts, data mining systems, and interactive data warehousing. Students also discuss financial issues (electronic payments system, customs, and taxation), privacy, security, and legal issues. Students are required to prepare a team project of a working E-Commerce system using a variety of current tools. Upon completion, students have a strong understanding of the basic building blocks (concepts and technology) and their interrelations in the E-Commerce system, and are capable of developing a small size E-Commerce transaction processing system using current tools.",
+      "prereq": "C or better in COMP 2560 and COMP 2680"
+    },
+    {
+      "code": "COMP 2630",
+      "title": "Small Computer Systems: Communication and Networks (3,1,0)(L)",
+      "credits": "3 credits",
+      "description": "Current advances in computer technology are bringing a new dimension to small computer systems networking. The networking of fast, reliable, and inexpensive small computer systems is revolutionizing the organization of companies, downsizing applications, and is a major new area of employment. The course introduces the fundamentals of data communication and computer networks. A discussion of information transfer and data communication is followed by an overview of computer networks. Students focus on Local Area Networks (LAN), including their design, organization, installation, maintenance, and administration, as well as issues of data security, data backups and recovery. LAN access to Wide and Global computer networks is explored. Student learning is supported by a series of hands-on practical workshops and seminars on the design, installation, and administration of a typical LAN system.",
+      "prereq": "C or better in COMP 1570"
+    },
+    {
+      "code": "COMP 2640",
+      "title": "Languages - Advanced Programming (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students examine advanced programming techniques using object-oriented methodology for enterprise design and implementation. The following topics are developed: (1) Use of Component Object Model for system development; (2) Design and implementation of a run time libraries for modern window applications including classes and ActiveX components, including ActiveX DLL's, ActiveX EXE's, and ActiveX Controls; and (3) client server techniques used for distributed systems and for use over the Internet. Visual Basic is the programming vehicle used in this course.",
+      "prereq": "C or better in COMP 1240, COMP 1670, COMP 2520 and COMP 2560"
+    },
+    {
+      "code": "COMP 2660",
+      "title": "Advanced Object Oriented Programming (3,1,0)",
+      "credits": "3 credits",
+      "description": "This is an advanced computer programming course with an emphasis on object-oriented concepts (such as inheritance, encapsulation, abstraction, and polymorphism) and design modeling using the Unified Modeling Language (UML). Topics include multi-threading, network sockets, and Graphical User Interface (GUI) programming techniques. Students use Managed Visual C++.NET and Java for programming.",
+      "prereq": "Completion of 3rd semester of Computer Science Diploma and C or better in COMP 2520"
+    },
+    {
+      "code": "COMP 2670",
+      "title": "Systems Analysis and Design 2 (3,1,0)",
+      "credits": "3 credits",
+      "description": "Continuing from COMP 2570: Systems Analysis and Design 1, students carry out a detailed analysis of an existing business system, and design an improved system under guidance of the system management. Topics include the design of systems controls, project management, scheduling and control, systems implementation, and evaluation. This is a major hands-on training course. For non-co-op students, this course may only be taken in the graduation semester.",
+      "prereq": "Completion of 3rd semester of Computer Science Diploma and C or better in COMP 2520"
+    },
+    {
+      "code": "COMP 2680",
+      "title": "Web Site Design and Development (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course introduces students to an overview of website development. The course focuses on client-side components comprising of Hyper Text Markup Language (HTML), Cascading Style Sheets (CSS), Multimedia, JavaScript programming, Document Object Model (DOM) for dynamic web applications. Significant time is devoted to iterative development in a lab setting using mentor-ship to provide feedback to the students allowing them to reflect on the software written.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 2681",
+      "title": "Web Site Design and Development",
+      "credits": "3 credits",
+      "description": "This course covers major client-side web application design and development applications including HTML, HTTP, Java Script programming, and Cascading Style Sheets (CSS).\n\nPrerequisites: There are no prerequisites for the course, but completion of the first year of the Bachelor of Computing Science or equivalent is highly recommended.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 2730",
+      "title": "Introduction to Computer Security (3,1,0)",
+      "credits": "3 credits",
+      "description": "This is an introductory course on computer and information system security. Students discuss key security requirements such as Confidentiality, Integrity, and Availability (CIA), and the mechanisms used to ensure them, such as Authentication, Access Control, and Auditing (triple-A). The course lays the foundation for further study, and for students seeking industry certifications, such as CompTIA Security+ or CISSP.",
+      "prereq": "C- or better in COMP 2630"
+    },
+    {
+      "code": "COMP 2810",
+      "title": "Game Design and Development 2 (3,1,0)",
+      "credits": "3 credits",
+      "description": "Building a high-quality game is a complex and challenging process; a key element to its success relies on the game interface design. Students build on the fundamentals of game design learned in COMP 1810: Game Design and Development 1. Different genres of game are considered, such as action games, strategy games, role-playing games, sports games, simulation or serious games, adventure games, artificial life and puzzle games, and online gaming. Students learn to effectively design game Interfaces that enable players to participate in unique and engaging experiences.",
+      "prereq": "C or better in COMP 1810"
+    },
+    {
+      "code": "COMP 2910",
+      "title": "Computer Applications in Business (2,1,0)",
+      "credits": "3 credits",
+      "description": "This is a business software applications course for students in tourism programs. Building upon computer skills acquired in COMP 1910: Introduction to Computers and Business Information Systems, students in this course complete business-related software projects. The emphasis of the course is on computer applications in the tourism industry. In addition, a common thread throughout the course is the application and integration of communications technologies with business software. Students make extensive use of the World-Wide-Web and internet-based applications.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 2920",
+      "title": "Software Architecture and Design (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students learn how to establish, define and manage the requirements for a software system. Students gain knowledge of fundamental concepts and methods of software design. Students learn how to use design notations of unified modeling language to develop design of a software product. Students are introduced to the design guidelines, quality, and evaluation criteria of software architecture. Students study how to design, generate, and modify software patterns and their use in software development.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 2921",
+      "title": "Software Architecture and Design",
+      "credits": "3 credits",
+      "description": "Students learn how to establish, define and manage the requirements for a software system. Students gain knowledge of fundamental concepts and methods of software design. Students learn how to use design notations of unified modeling language to develop design of a software product. Students are introduced to the design guidelines, quality, and evaluation criteria of software architecture. Students study how to design, generate, and modify software patterns and their use in software development.\n\nPrerequisites: There are no prerequisites for the course, but COMP 1231 with a score of C, or COMP 1230 with a score of C are recommended.\n\nNote: Students cannot get credit for more than one of COMP 2920, COMP 2921.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3050",
+      "title": "Algorithm Design and Analysis (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students begin by defining what an algorithm is, discuss what it means to do algorithm analysis, and analyze why it is important in Computing Science. Topics include tools and methods for algorithm analysis and design; mathematical notations; choice of data structure; and space and time efficiency; Computational complexity and additional advanced algorithms are examined.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3051",
+      "title": "Algorithm Design & Analysis",
+      "credits": "3 credits",
+      "description": "This is a three-credit course in which students learn algorithm definition; tools and methods for algorithm analysis and design; mathematical notations; choice of data structure, space and time efficiency, computational complexity, and algorithms for searching and sorting.\n\nPrerequisites: There are no prerequisites for the course, but COMP 2231 is recommended.\n\nNote: Students cannot get credit for more than one of COMP 3050, COMP 3051.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3110",
+      "title": "Models of Computation (3,1,0)",
+      "credits": "3 credits",
+      "description": "Computer Science is the study of computers and programs, and the collections of instructions that direct the activity of computers. Computers are made of simple elements but they often perform complex tasks. The great disparity between the simplicity of computers and the complexity of computational tasks offers intellectual challenges. Theoretical computer science develops methods and models of analysis to meet those challenges. This course provides an introduction to general computational models (logic circuits, upper bound on the size and depth of the circuits for important problems); automata (finite-state, random-access, and Turing machines); formal languages; and computational complexity (time- and space-bounded complexity classes, and space-time tradeoffs).",
+      "prereq": "C or better in COMP 2130 and COMP 2230 or COMP 2231"
+    },
+    {
+      "code": "COMP 3120",
+      "title": "Programming Languages (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course is a comparative study of programming languages including their syntax, semantics and run-time behavior. Students discuss data abstraction, programming paradigms (functional, object-oriented, procedural, and relational) and their appropriate applications. Interpretation versus compilation as well as concurrent computations are discussed.",
+      "prereq": "C or better in COMP 2230 or COMP 2231"
+    },
+    {
+      "code": "COMP 3130",
+      "title": "Formal Languages, Automata and Computability (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students discuss formal grammars, normal forms, the relationship between grammars and automata, regular expressions, finite state machines, pushdown automata, and Turing machine computability. Additional topics include the Halting Problem; an introduction to recursive function theory; application to programming languages; and editors and command languages (operating systems).",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3140",
+      "title": "Object Oriented Design and Programming (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students are introduced to object-oriented design and programming. Topics include object-oriented concepts, object-oriented programming, development of console-based applications in C++, Visual C++, Visual Basic .Net, and an introduction to Microsoft Foundation Classes (MFC) and inter-object communication. Students design and develop systems using object-oriented design and programming methodologies in console and Windows-based applications.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3141",
+      "title": "Object-Oriented Design and Programming",
+      "credits": "3 credits",
+      "description": "This course introduces students to object-oriented design and programming. Upon completion, students should have a good understanding of object-oriented design and programming including understanding and developing console-based applications in C++, Visual C++ applications and an introduction to Microsoft Foundation Classes (MFC) and inter-object communication. Students will be able to design and develop systems using object-oriented design and programming methodologies in console- and Windows-based applications. They will also have an introductory knowledge base in MFC that will allow them to analyze and use these library functions in application development.\n\nPrerequisites: There are no prerequisites for this course, however COMP 1230 or COMP 1231 and COMP 2230 or COMP 2231 are recommended",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3150",
+      "title": "Java Programming (3,1,0)",
+      "credits": "3 credits",
+      "description": "The Java programming language is a modern object-oriented language designed with two very important features: (1) platform independence, which allows the program to be executed on different machines and under the control of different operating systems; and (2) direct support for HTML (and similar) documents. These two features made Java a language of choice for internet-based applications. This course consists of an overview of the Java environment, syntax, and libraries; object-oriented program design in java; program design in Java for the internet (applets, servlets); and multiprogramming in Java (multithreading).",
+      "prereq": "C or better in COMP 2230 or COMP 2231"
+    },
+    {
+      "code": "COMP 3160",
+      "title": "Mobile Application Development 2 (3,1,0)(L)",
+      "credits": "3 credits",
+      "description": "Students are introduced to advanced mobile application development. Topics include databases, GPS and other sensors, maps, 2D graphics, 3D graphics, sound, music and other media, game development, and network communication.",
+      "prereq": "C or better in COMP 2160 or COMP 2161"
+    },
+    {
+      "code": "COMP 3260",
+      "title": "Computer Network Security (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students explore how information is exchanged on the Internet and the security issues that arise due to information exchange between different technologies. Students learn concepts of authentication, authorization, access control in computer networks. Students gain knowledge about Use of cryptography for data and network security. Students are introduced to the topics such as firewalls, public key infrastructure, security standards and protocols, virtual private networks, and wireless network security. Students also explore privacy, legal issues and ethics in context of network security.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3261",
+      "title": "Internet and Security Issues",
+      "credits": "3 credits",
+      "description": "This course presents the most practical of Internet/Intranet technologies and techniques to students. It covers Internet protocols, addressing and architecture, Intranet and Extranet design, installation and management, as well as all aspects of Internet/Ilntranet security and user/data authentication.\n\nPrerequisites: There are no prerequisites for the course, but COMP 2230, or COMP 2231 are recommended.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3270",
+      "title": "Computer Networks (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students learn about computer network design principles and concepts, network architecture, Open Systems Interconnection (OSI) model, error detection and recovery, local area networks, bridges, routers and gateways, network naming and addressing, routing protocols, inter-networking, wireless networks, and Internet Protocol v6 network addressing. Students first gain knowledge about basic local area networks, and then learn about the wireless Local Area Networks, techniques to extend Local Area Networks, inter-networking and emerging network technologies.",
+      "prereq": "C or better in COMP 2230 or COMP 2231"
+    },
+    {
+      "code": "COMP 3271",
+      "title": "Computer Networks",
+      "credits": "3 credits",
+      "description": "The main emphasis of this course is on the organization and management of local area networks (LANs). The course objectives include learning about computer network organization and implementation, obtaining a theoretical understanding of data communication and computer networks, and gaining practical experience in installation, monitoring, and troubleshooting of current LAN systems. Students are introduced to computer communication network design and its operations, and discuss the following topics: Open Systems Interconnection (OSI) communication model; error detection and recovery; local area networks; bridges, routers and gateways; network naming and addressing; and local and remote procedures. On completion of the course, students should be able, in part, to design, implement and maintain a typical computer network (LAN).\n\nPrerequisites: There are no prerequisites for the course, but COMP 2130, COMP 2230, COMP 2231 are recommended.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3320",
+      "title": "Computational Methodology (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course offers selected topics in numerical computations with an emphasis on computer arithmetic, analysis of roundoff errors, propagation of errors, and environmental paremeters. Students explore computational metholology as applied to solving problems in Numerical Linear Algebra (Direct and Iterative Methods), non-linear equations and non-linear systems of systems of equations. Students are also introduced to the use of numerical software libraries and the design of numerical software packages.",
+      "prereq": "C or better in COMP 2230 or COMP 2231"
+    },
+    {
+      "code": "COMP 3410",
+      "title": "Operating Systems (3,1,0)",
+      "credits": "3 credits",
+      "description": "The purpose of this course is to provide students basic knowledge of operating systems, difference between the kernel and user modes, concepts of application program interfaces, methods and implementations of interrupts. Students are introduced to the schedulers, policies, processes, threads, memory management, virtual memory, protection, access control, and authentication. Students learn system calls in different popular operating systems used in the industry.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3411",
+      "title": "Operating Systems",
+      "credits": "3 credits",
+      "description": "The purpose of this course is to provide students basic knowledge of operating systems, difference between the kernel and user modes, concepts of application program interfaces, methods and implementations of interrupts. Students are introduced to the schedulers, policies, processes, threads, memory management, virtual memory, protection, access control, and authentication. Students learn system calls in different popular operating systems used in the industry.\n\nPrerequisites: There are no prerequisites for the course, but a background in Data Structures and Algorithms, or COMP 2231, COMP 2131 (or a course similar in content) is recommended.\n\nNote: Students cannot get credit for more than one of COMP 3411, COMP 3410.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3450",
+      "title": "Human-Computer Interaction Design (3,1,0)",
+      "credits": "3 credits",
+      "description": "Comp 3450 is the introductory course to interaction design from a human-computer interaction (HCI) perspective.  Students will learn both theoretical and practical concepts of human-computer interaction that will help them produce user interfaces developed using a user-centered approach.  Students will explore how cultural biases impact how we design computer programs, interfaces and AI programs.  In addition, students will debate and discuss increasing concerns regarding the lack of cultural diversity in Machine Learning algorithms, which disadvantages non-privileged groups in society. As such, students will apply intercultural understanding to HCI to build inclusive systems.  Further, students will test, reflect and revise their assumptions throughout the course to continually improve previous assignments, as the process of user interface design involves constant revision of existing systems.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3451",
+      "title": "Human Computer Interaction Design",
+      "credits": "3 credits",
+      "description": "Comp 3451 is the introductory course to interaction design from a human-computer interaction (HCI) perspective. Students will learn both theoretical and practical concepts of human-computer interaction that will help them produce user interfaces developed using a user-centered approach. Students will explore how cultural biases impact how we design computer programs, interfaces and AI programs. In addition, students will debate and discuss increasing concerns regarding the lack of cultural diversity in Machine Learning algorithms, which disadvantages non-privileged groups in society. As such, students will apply intercultural understanding to HCI to build inclusive systems. Further, students will test, reflect and revise their assumptions throughout the course to continually improve previous assignments, as the process of user interface design involves constant revision of existing systems.\n\nRecommended prerequisite: Third year standing in a CS degree program. COMP 2680 or COMP 2681 , MATH 1650 or MATH 1651 or MATH 1651 or MATH 1240\n\nNote: Students cannot receive credit for both COMP 3450 and COMP 3451",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3510",
+      "title": "System Implementation and Development Tools (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course offers tools and techniques to promote programming productivity and software quality. Topics include specifications; code review and inspection techniques; testing and debugging methods and tools; reusable software components and templates; file system navigation; scripting languages; software configuration management; software tools; environments; and instrumenting and profiling.",
+      "prereq": "C or better in COMP 2230 or COMP 2231"
+    },
+    {
+      "code": "COMP 3520",
+      "title": "Software Engineering (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students are introduced to the different software process models and management of modular inter-communication, software engineering tools, software testing and project management including resource estimation, team organization and review.  Students learn software engineering techniques for dependable and secure systems, reliability engineering, software evolution, software maintenance, quality management, configuration management, reuse and ethical issues in software engineering. By the end of the course students will demonstrate the necessary skills of effective leadership and teamwork required in the Software Engineering discipline.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3521",
+      "title": "Software Engineering",
+      "credits": "3 credits",
+      "description": "Students are introduced to the different software process models and management of modular intercommunication, software engineering tools, software testing, and project management including resource estimation, team organization, and review. Students learn software engineering techniques for dependable and secure systems, reliability engineering, software evolution, software maintenance, quality management, configuration management, reuse, and ethical issues in software engineering.\n\nPrerequisites: There are no prerequisites for the course, but COMP 2921 is recommended.\n\nNote: Students cannot get credit for more than one of COMP 3520, COMP 3521.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3540",
+      "title": "Advanced Web Design and Programming (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students review client-side web technologies used for static webpages and interactive web applications on clients. Students examine advanced topics in Hyper Text Markup Language, Cascade Style Sheet and JavaScript for interactive web applications that use rich user interfaces. Students then continue with server-side web technologies for dynamic web applications, such as server-side scripting programming, database access for three-tier data-driven applications, and asynchronous communication between client and server for fast partial update of client windows.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3541",
+      "title": "Web Site Design & Programming",
+      "credits": "3 credits",
+      "description": "Students review client-side web technologies used for static webpages and interactive web applications on clients. Students examine advanced topics in Hyper Text Markup Language, Cascade Style Sheet and JavaScript for interactive web applications that use rich user interfaces. Students then continue with server-side web technologies for dynamic web applications, such as server-side scripting programming, database access for three-tier data-driven applications, and asynchronous communication between client and server for fast partial update of client windows.\n\nRecommended Requisites: COMP 2231-Data Structures and Algorithms\n\nExclusion Requisites: COMP 3540-Advanced Web Design and Programming",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3610",
+      "title": "Database Systems (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students are introduced to the database concepts. Students review the underlying data structures that make up databases. Students learn database design techniques using both the Entity Relationship model as well as an object oriented approach to designing database systems. Students study the relational database model and data normalization as they design and implement a case study project. Students also learn data description language, data manipulation language (updates, queries, reports), and data integrity. Students complete a case study work using a relevant and current relational database management system, database management system, software product.\nPrerequisite/Corequisite: C or better in COMP 2230 or COMP 2231",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3611",
+      "title": "Database Systems",
+      "credits": "3 credits",
+      "description": "Students are introduced to the database concepts. Students review the underlying data structures that make up databases. Students learn database design techniques using both the Entity Relationship model as well as an object oriented approach to designing database systems. Students study the relational database model and data normalization as they design and implement a case study project. Students also learn data description language, data manipulation language (updates, queries, reports), and data integrity. Students complete a case study work using a relevant and current relational database management system, database management system, software product. \n\nRecommended Requisites: COMP 2230-Data Structure, Algorithm Analysis, and Program Design or COMP 2231-Data Structures and Algorithms\n\nExclusion Requisites: COMP 3610-Database Systems",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3710",
+      "title": "Applied Artificial Intelligence (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students investigate non-deterministic computer algorithms that are used in wide application areas but cannot be written in pseudo programming languages. Non-deterministic algorithms have been known as topics of machine learning or artificial intelligence. Students are introduced to the use of classical artificial intelligence techniques and soft computing techniques. Classical artificial intelligence techniques include knowledge representation, heuristic algorithms, rule-based systems, and probabilistic reasoning. Soft computing techniques include fuzzy systems, neural networks, and genetic algorithms. Students will be able to connect and apply a depth and breadth of knowledge in Artificial Intelligence to a wide domain of complex problems beyond Computing Science.",
+      "prereq": "COMP 2230 (min. grade C) or COMP 2231 (min. grade C) and MATH 1650 (min. grade C) or MATH 1651 (min. grade C) or STAT 2000 (min. grade C) and MATH 2120 (min. grade C) or MATH 2121 (min. grade C)."
+    },
+    {
+      "code": "COMP 3711",
+      "title": "Applied Artificial Intelligence",
+      "credits": "3 credits",
+      "description": "Students investigate non-deterministic computer algorithms that are used in wide application areas but cannot be written in pseudo programming languages. Non-deterministic algorithms have been known as topics of machine learning or artificial intelligence. Students are introduced to the use of classical artificial intelligence techniques and soft computing techniques. Classical artificial intelligence techniques include knowledge representation, heuristic algorithms, rule-based systems, and probabilistic reasoning. Soft computing techniques include fuzzy systems, neural networks, and genetic algorithms. Students will be able to connect and apply a depth and breadth of knowledge in Artificial Intelligence to a wide domain of complex problems beyond Computing Science. \n\nRecommended Requisites: STAT 2000 with a C or better and MATH 2120 with a C or better or MATH 2121 with a C or better and COMP 2230 with a C or better or COMP 2231 with a C or better and MATH 1650 with a C or better or MATH 1651 with a C or better\n\nExclusion: Students cannot receive credit for both COMP 3710 and COMP 3711",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 3820",
+      "title": "Computer Graphics and Visualization (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students are introduced to computer graphics and visualization. The course covers basic principles and techniques that are used for graphics applications through simple examples. Students are exposed to current graphics and Application Programming Interfaces (API) for desktop computers and mobile devices, and learn the development of graphics applications (interactive games, visualizations, simulations) through assignments and a project.",
+      "prereq": "C or better in COMP 2230 or COMP 2231"
+    },
+    {
+      "code": "COMP 4110",
+      "title": "Language Processors (3,1,0)",
+      "credits": "3 credits",
+      "description": "This compiler design course includes topics such as translators; compilers; assemblers and interpreters; compiler organization; compiler writing tools; use of regular expression; finite automata and context-free grammars; scanning and parsing; run- time organization; semantic analysis; and storage allocation and code generation.",
+      "prereq": "C or better in COMP 3050"
+    },
+    {
+      "code": "COMP 4120",
+      "title": "Distributed Systems (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students examine the evolution of technology and the concepts underlying distributed computing systems. Topics include the fundamentals and principles of distributed computing; language constructs for distributed programming; formal specification of distributed systems; distributed algorithms; elements of distributed operating systems; and elements of fault-tolerant distributed architectures.",
+      "prereq": "COMP 3270, COMP 3410 or COMP 3411, COMP 3610"
+    },
+    {
+      "code": "COMP 4210",
+      "title": "Ethical Hacking(3,1,0)",
+      "credits": "3 credits",
+      "description": "This course introduces the student to ethical hacking concepts and techniques. Students will learn how computer networks might be attacked and will get hands-on experience on several attack methods used by hackers to compromise a computer network. Topics will include security foundations, ethical hacking laws and guidelines, hacking phases and types, foot printing techniques, network scanning, enumeration, sniffing, denial of service\nattacks, network vulnerability assessment and penetration testing. In addition, students will be introduced to the inner workings of the techniques/tools used in order to supplement their understanding.\n\nPrerequisites: 3rd Year standing in Computing Science. COMP 2130/2131 and COMP3270/3271 and COMP3540/3541 and COMP3610/3611",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 4220",
+      "title": "Cloud Computing(3,1,0)",
+      "credits": "3 credits",
+      "description": "This course provides an introduction to cloud computing with an emphasis on networking and algorithms. Students are introduced to the concepts of cloud computing, the architecture of data center networks, and algorithms for big data applications. Specifically, students learn about fundamental issues including load balancing, virtual machine placement, traffic engineering, and data locality and storage in large data centers, parallelizing big data applications via MapReduce/Spark, and basic queueing theory and optimization techniques in the course of delivering the above topics. Students will eventually have a good knowledge of cloud computing concepts, technologies, architecture, and applications.\n\nPrerequisites: COMP 2130/2131 with a score of C or better, COMP 2230/2231 with a score of C or better, COMP 3270/3271 with a score of C or better.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 4230",
+      "title": "Advanced Computer Networks (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course is designed as a follow-up course on computer networks. The application of networking concepts taught in computer networks, as well as additional topics in advanced Computer Networks are emphasized.",
+      "prereq": "C or better in COMP 3270, COMP 3610"
+    },
+    {
+      "code": "COMP 4240",
+      "title": "Internet/Intranet (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students are presented with the most practical internet and intranet technologies and techniques. Topics include internet protocols, addressing and architecture, intranet and extranets design, installation, and management, and all aspects of internet/intranet security and user/data authentication.",
+      "prereq": "C or better in COMP 3540 or COMP 3541"
+    },
+    {
+      "code": "COMP 4250",
+      "title": "Computer Network Administration (3,1,0)(L)",
+      "credits": "3 credits",
+      "description": "This course emphasizes the implementation and the administration of network and network servers, and network security. Topics include administration of internet working and server software on network servers; network traffic surveillance; network security problems, firewall, intrusion detection and defense; and the implementation of a practical LAN.",
+      "prereq": "C or better in COMP 3270, COMP 3410 or COMP 3411"
+    },
+    {
+      "code": "COMP 4260",
+      "title": "Mobile Computing (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students focus on the basic knowledge of mobile applications, and progress to the mobile application service platform and the development of mobile applications, using Mobile Java Technology. Topics include wireless Internet service, Wireless Markup Language and Wireless Application Protocol, Connected Limited Device Configuration, and Mobile Device Information Profile.",
+      "prereq": "C or better in COMP 3260 or COMP 3270"
+    },
+    {
+      "code": "COMP 4270",
+      "title": "Internet of Things(3,1,0)",
+      "credits": "3 credits",
+      "description": "The Internet of Things (IoT) is revolutionizing the way we use and interact with daily objects such as electrical switches, toasters, fridges, thermostats, etc. IoT is not a single technology rather built on the existing set of complex technologies. This special topics course will provide an introduction to IoT, and it will explain its importance and impact in our society and daily life. Students will learn how to use the existing technologies, such as the Internet, Data Analysis, Web technologies and Programming to build an IoT application. This course will use hands-on experiential learning to teach IoT concepts using Raspberry Pi. Throughout the course, students will work in groups on building an innovative prototype for IoT applications using Raspberry Pi. At the end, groups will present their prototype in a conference type presentation.\n\nPrerequisites: COMP 2130 or COMP 2131 with a score of C or better, COMP 2230 or COMP 2231 with a score of C or better, COMP 2680 or COMP 2681 with a grade of C or better and Third year standing in Computing Science degrees",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 4320",
+      "title": "Advanced Computational Methodology (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students focus on selected advanced topics in numerical computations with an emphasis on the analysis of errors. The study of computational methodology as applied to solving problems in interpolation and approximation includes splines and least spares data fitting; numerical differentiation and integration; numerical initial value ordinary differential equations; and partial differential equations. Students design a numerical software package.",
+      "prereq": "C or better in COMP 3320"
+    },
+    {
+      "code": "COMP 4340",
+      "title": "Modelling and Simulation (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students examine numerous concepts related to modelling and simulation, including numeric models of dynamic systems with an emphasis on discrete stochastic systems; state descriptions of models, common model components and entities; simulation using algebraic languages; methodology of simulation (data collection, model design, analysis of output, optimization, and validation); elements of queuing theory and its relationship to simulation; and the application of models of computer systems. Students also discuss common simulation languages, such as Simula, GPSS, Simscript, GASP, and Dynamo.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 4350",
+      "title": "Introduction to Quantum Computing(3,1,0)",
+      "credits": "3 credits",
+      "description": "The course is intended for upper level students in physics, computing science or mathematics. The course is divided into three parts. In the first third, students are introduced to quantum mechanics systems which are viable for computing. In the second section, students explore the mathematical formulation of quantum computing algorithms and in the third section of the course students develop code suitable for implemention by an actual quantum computer.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 4480",
+      "title": "Directed Studies in Computing Science",
+      "credits": "3 credits",
+      "description": "Students undertake an investigation on a specific topic as agreed upon by the student and the faculty member.",
+      "prereq": "Admission to the Computing Science Major, or to the Bachelor of Computing Science with a GPA equal to or more than 3.0. Permission of the faculty member (supervisor) is required, and, if the course is co-supervised, an acceptance of the topic by a co-supervisor with the appropriate expertise. The co-supervisor may be either from the campus or off campus. Registration in this course requires the approval of the Department of Computing Science."
+    },
+    {
+      "code": "COMP 4510",
+      "title": "Systems Software Design (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students focus on systems software components and their functions; operating software, translators, linkers, loaders, and cross assemblers; utility software; the relationship of operating software to hardware; developing system software components; single user, multiprogramming and distributed systems (LANs) operating software; and terminate and stay resident programs.",
+      "prereq": "C or better in COMP 3520 or COMP 3521"
+    },
+    {
+      "code": "COMP 4530",
+      "title": "Advanced Software Engineering (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course builds on the material students learned in COMP 3520: Software Engineering. Students examine the management perspective of software development, such as project management, planning, quality and configuration management. Advanced topics are also explored, such as dependability and security engineering, service-oriented architecture, aspect- oriented software engineering and embedded system development.",
+      "prereq": "C or better in COMP 3520 or COMP 3521"
+    },
+    {
+      "code": "COMP 4540",
+      "title": "Advanced Web Design and Programming (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course is a continuation of COMP 3540 (Web Site Design and Programming) and will discuss advanced web design concepts, technologies and techniques. It will cover server side programming aspects including advanced CGI techniques, ASP (Active Server Pages) and JSP (Java Server Pages), XML and the document model.",
+      "prereq": "C or better in COMP 3540 or 3541, COMP 3610"
+    },
+    {
+      "code": "COMP 4610",
+      "title": "Advanced Database Systems (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course continues with database concepts introduced in COMP 3610: Database Systems. Students begin with a review of database design and implementation principles, and progress to discussions about the relational database model, designing for optimization, and normal forms. Topics include domain/ key normal form; relational database strategies for Database Manipulation Languages (DMLs); database administration and multi-user database issues (control, security, optimization and related); and distributed database systems with an emphasis on Client/Server, data warehousing, object-oriented database systems, and web-based database issues.",
+      "prereq": "COMP 3610 (min. grade of C) or COMP 3611 (min. grade of C)"
+    },
+    {
+      "code": "COMP 4620",
+      "title": "Web-based Information Systems (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course provides students with the concepts and technologies involved in the design, implementation, and operation of web-based information systems. Students use a variety of web development tools and programming/scripting languages. Emphasis is placed on the technologies for rich web application, including the aspect of web programming paradigm; the information exchange between client and server; the model-view-controller architecture; web application frameworks; content management systems; web services; web data mining; and security issues.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 4621",
+      "title": "Web-Based Information Systems",
+      "credits": "3 credits",
+      "description": "This course provides students with the concepts and technologies involved in the design, implementation, and operation of web-based information systems. Students use a variety of web development tools and programming/scripting languages. Emphasis is placed on the technologies for rich web application, including the aspect of web programming paradigm; the information exchange between client and server; the model-view-controller architecture; web application frameworks; content management systems; web services; web data mining; and security issues. \n\nRecommended Requisites: COMP 3541 or COMP 3540 \nExclusion Requisites: COMP 4620",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 4630",
+      "title": "Distributed Databases and Distributed Data on the World Wide Web (3,1,0)",
+      "credits": "3 credits",
+      "description": "This course offers instruction in three major types of distributed architecture: client/server paradigm (2-tier, 3-tier, N-tier), distributed database environments (homogenous and heterogeneous), and data-centered co-operative systems.  Topics include distributed system design; database transactions; query optimization; data replication; partitioning; and models for metadata. Students are required to work on small projects using a variety of current DBMS software and tools, such as MS SQL Server 7.0, Oracle 8, MS Access 2000, XML, MSXML, ODBC, OLE-DB, ASP, and VBScript on Web server.",
+      "prereq": "C or better in COMP 3540 or COMP 3541 and COMP 3610"
+    },
+    {
+      "code": "COMP 4740",
+      "title": "Expert Systems (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students are introduced to artificial intelligence theory and practice underlying expert systems. Topics include knowledge bases; inference engines; knowledge representation formalisms; knowledge acquisition; search and reasoning techniques; and other practical issues in the development of expert systems. For logic-based approaches, students explore rule-based systems, semantic networks, frames, and mixed representation formalisms. For uncertainty management, certainty factors, Bayesian network, D-S belief functions, and fuzzy logic are discussed.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 4750",
+      "title": "Natural Computing (3,1,0)",
+      "credits": "3 credits",
+      "description": "Natural Computing is about methods of computation that are inspired by nature including the ways in which humans compute. Characteristic for man-designed computing inspired by nature is the metaphorical use of concepts, principles and mechanisms underlying natural systems. This type of computing includes evolutionary algorithms, neural networks, fuzzy logic, swarm intelligence, molecular computing and quantum computing. Students discuss the problem of intelligent systems design using neural computing/soft-computing/computational intelligence (NC/SC/CI) techniques in an integrated manner, and are presented with theory and applications, including industrial applications. Traditional artificial intelligence (AI) techniques are mainly based on mathematical techniques of symbolic logic. These are referred to as 'crisp' techniques by the soft computing community. NC/SC/CI seeks inspiration from the world of biology, and is being used to create numerous real-world intelligent systems with the aid of NC/SC/CI tools.",
+      "prereq": "C or better in COMP 3050"
+    },
+    {
+      "code": "COMP 4820",
+      "title": "Computer Animation(3,1,0)",
+      "credits": "3 credits",
+      "description": "This course provides an introduction to 3D computer animation theories, techniques, and practices. Students will learn both theoretical and practical concepts of computer animation which will help them produce their own 3D computer animation. The course covers the basic animation concepts and techniques needed in understanding and building an animation for visual effects, video game animation, and short and feature length animation. The\nprocesses of 3D computer animation productions are covered in lectures and hands-on exercises. Tutorials and self-directed exploration in modeling, rendering, and animation with the animation package of choice take place throughout the course.",
+      "prereq": "Third year standing in Computing Science and COMP 2230 or COMP 2231 with a score of C or better."
+    },
+    {
+      "code": "COMP 4830",
+      "title": "Multimedia (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students are introduced to the concepts, theories, and practices involved in the development of multimedia applications. The course covers fundamental concepts and theories of different digital media, the principles of good design, and the most recent technologies for the development of multimedia applications. Students explore practical knowledge and techniques of multimedia programming by completing course assignments and a project related to web-based and mobile applications. Students enrolled in this course are expected to increase their proficiency in the development of multimedia applications using these contemporary technologies.",
+      "prereq": "C or better in COMP 2230 or COMP 2231"
+    },
+    {
+      "code": "COMP 4910",
+      "title": "Computing Science Project (0,1,0)",
+      "credits": "3 credits",
+      "description": "This course is designed as a capstone project in the BCS and CS Major programs and includes the practical design and implementation of a supervised project in an area of specialization in Computing Science.  The students will develop a `live' project in collaboration with an external client. The live project will require students to apply the knowledge learned throughout their degree program.",
+      "prereq": "COMP 3520 (min. grade C) or COMP 3521 (min. grade C); 4th year standing(final year of study) and Instructor permission."
+    },
+    {
+      "code": "COMP 4911",
+      "title": "Computing Science Project",
+      "credits": "3 credits",
+      "description": "This course is designed as a capstone course for a computing science degree program and includes the practical design and implementation of a supervised project in an area of specialization in computing science. The students will develop a 'live' project and part of their learning experience will include working with an external client.\n\nPrerequisites: There are no prerequisites for the course, but COMP 3521 is recommended.\n\nCorequisite: There are no corequisites for the course, but COMP 4531 is recommended.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 4930",
+      "title": "Professional and Ethical Issues in Computing Science (3,0,0)",
+      "credits": "3 credits",
+      "description": "Students examine current computer issues and selected topics from these, including the impact of computer technology on society; historical perspectives; social and economic consequences of large-scale information processing systems and automatic control; legal and ethical problems in computer applications; intellectual property. Additional topics include the computer and the individual; machine versus human capabilities; facts and fancy; problematic interface between man and machine; privacy and security; the need for standards and the implications of non-standardization; and ethics. By the end of the course students will be able to apply socially responsible , sustainable and ethical behaviors.",
+      "prereq": "3rd year standing"
+    },
+    {
+      "code": "COMP 4931",
+      "title": "Professional and Ethical Issues in Computing Science",
+      "credits": "3 credits",
+      "description": "Students examine current computer issues and selected topics from these, including the impact of computer technology on society; historical perspectives; social and economic consequences of large-scale information processing systems and automatic control; legal and ethical problems in computer applications; intellectual property. Additional topics include the computer and the individual; machine versus human capabilities; facts and fancy; the problematic interface between human and machine; privacy and security; the need for standards and the implications of non-standardization; and ethics. By the end of the course students will be able to apply socially responsible, sustainable and ethical behaviors.\n\nRecommended prerequisite: CMNS 1290 or CMNS 1291 and third year standing.\nNote: Students may only receive credit for one of COMP 4931 or COMP 4930.",
+      "prereq": ""
+    },
+    {
+      "code": "COMP 4960",
+      "title": "Honours Thesis in Computing Science",
+      "credits": "6 credits",
+      "description": "Each student in this course is required to conduct, under the supervision of a member of the Department of Computing Science, an individual investigation into a Computing Science topic or problem at the advanced undergraduate level, the results of which are to be typed and submitted as an Honors Thesis. The thesis is defended at a public lecture before an examining committee.",
+      "prereq": "Admission into the Computing Science Honors program as part of a Bachelor of Science degree and identification of a supervisor"
+    },
+    {
+      "code": "COMP 4980",
+      "title": "***Current Topics in Computer Science (3,1,0)",
+      "credits": "3 credits",
+      "description": "Students are introduced to selected current topics in computing science at the advanced undergraduate level. Due to the rapidly changing nature of computing science, the course content varies from year to year.",
+      "prereq": "Admission to the 4th year of the Bachelor of Computing Science degree program, or 4th year standing in the Computing Science Major program"
+    }
+  ]

@@ -1,0 +1,20 @@
+{
+  "name": "tru-course-finder",
+  "version": "1.0.0",
+  "description": "Academic Path Finder - Graph-based system for university course dependencies",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "install-all": "npm install && cd server && npm install && cd ../client && npm install"
+  },
+  "keywords": ["course-finder", "graph", "academic-path"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
+
